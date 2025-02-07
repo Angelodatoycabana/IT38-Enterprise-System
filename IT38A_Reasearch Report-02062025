@@ -89,7 +89,7 @@ What went wrong in the failed case?
 How can future implementations avoid similar failures?
 - Future implementations should adopt a phased approach, ensure proper training for all employees, involve stakeholders early, and conduct thorough system testing before going live.
 
- Insights & Recommendations
+Insights & Recommendations
 Best Practices for Successful Enterprise System Implementation
 Use a phased implementation approach to reduce risk and allow for continuous feedback.
 Engage all stakeholders early in the process to ensure that the system meets the needs of users.
