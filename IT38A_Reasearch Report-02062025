@@ -19,13 +19,42 @@ Pilot testing was conducted in smaller units, allowing for troubleshooting befor
 
 Key Success Factors
 The successful implementation of the ERP system at SMC can be attributed to several key factors:
--Strong leadership: Senior management's commitment to the project helped secure resources and align the entire organization around the ERP system.
--Clear objectives: SMC set specific goals for the implementation, such as reducing operational costs and improving supply chain management.
--User involvement: Employees were actively engaged in the process, with feedback incorporated into the system design and usage training.
--Thorough training: The company provided extensive training to its staff, ensuring that they could use the new system effectively.
+- Strong leadership: Senior management's commitment to the project helped secure resources and align the entire organization around the ERP system.
+- Clear objectives: SMC set specific goals for the implementation, such as reducing operational costs and improving supply chain management.
+- User involvement: Employees were actively engaged in the process, with feedback incorporated into the system design and usage training.
+- Thorough training: The company provided extensive training to its staff, ensuring that they could use the new system effectively.
 
 Outcomes & Impact
 The ERP implementation at San Miguel Corporation led to significant improvements in operational efficiency. 
 Real-time access to data allowed the company to optimize supply chain management, reduce inventory costs, and improve coordination between departments. 
 The company saw a reduction in operational bottlenecks, which ultimately led to enhanced productivity and a boost in profitability.
+
+Case Study 2: Failed Enterprise System Implementation
+
+Company Overview (Reason for implementing the enterprise system)
+Company: Philippine Airlines (PAL)
+Industry: Airline Services
+Reason for Implementation: Philippine Airlines sought to implement an enterprise resource planning (ERP) system to centralize its operations, 
+streamline its financial management, and improve customer service. The company was struggling with inefficient legacy systems and high operational costs, 
+and it hoped that the new system would help improve service delivery and reduce overhead.
+
+Implementation Process & Challenges
+Philippine Airlines initially opted for a big-bang implementation strategy, attempting to switch over its entire system at once. Unfortunately, this led to several challenges. 
+The implementation was rushed, and there was insufficient planning to account for the complexities of integrating the new system with PAL’s legacy infrastructure. 
+User training was inadequate, leading to resistance among employees who were unfamiliar with the system. Additionally, there were numerous technical glitches and compatibility issues that slowed down the adoption process.
+
+Key Failure Factors
+The primary reasons for failure at Philippine Airlines included:
+- Lack of proper planning: The company did not give enough time to prepare for the system's implementation, leading to confusion and disruption.
+- Inadequate training: Many employees were not properly trained to use the new system, leading to a lack of user confidence.
+- Poor communication: There was little communication between departments, resulting in misalignment of expectations and inefficiencies in the implementation process.
+- Underestimating system complexity: The company did not fully account for the need for system customization, leading to technical issues during the rollout.
+
+Outcomes & Consequences
+The failed ERP implementation at Philippine Airlines resulted in widespread disruption. 
+Operational delays became common, with the airline facing issues in booking management, finance tracking, and inventory control. 
+The system's inability to integrate with existing processes led to inefficiencies, and the company experienced a sharp increase in operational costs. 
+The lack of user adoption also led to a temporary decline in productivity and service quality, damaging PAL’s customer reputation. 
+Ultimately, Philippine Airlines had to abandon the ERP system and revert to legacy systems, incurring financial losses in the process.
+
 
